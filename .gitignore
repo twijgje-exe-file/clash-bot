@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (als je die lokaal gebruikt)
+venv/
+
+# Secrets
+.env
